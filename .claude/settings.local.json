@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import transformers; print\\(transformers.__version__\\)\")",
+      "Bash(grep -E \"\\\\.py$\")"
+    ]
+  }
+}
