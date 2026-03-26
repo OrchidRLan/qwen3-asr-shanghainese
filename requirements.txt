@@ -1,0 +1,9 @@
+qwen-asr
+vllm
+torch
+transformers
+accelerate
+peft
+bitsandbytes
+datasets
+jiwer

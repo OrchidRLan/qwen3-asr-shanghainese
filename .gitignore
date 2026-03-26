@@ -1,0 +1,12 @@
+# 模型权重太大，不要推上去
+*.bin
+*.safetensors
+Qwen3-ASR-*/
+
+# 音频文件如果有隐私数据
+data/raw/
+
+# 环境
+__pycache__/
+*.pyc
+.env
